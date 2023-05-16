@@ -40,5 +40,5 @@ Execute os testes de aplicação
 ## :computer: Tecnologias
   
 Tecnologias utilizada:
-- [Framework - Nextjs](https://nodejs.org/en/)
+- [Framework - Nextjs](https://nextjs.org/docs)
 ---
