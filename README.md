@@ -1,11 +1,12 @@
+
 <h4 align="center">
-   O Produto possibilita armazenar as suas séries favoritas
+   Projeto para aplicar a ideia do clean architecture em projeto front-end
 </h4>
- 
-<h4/>
-<p align="center">
-  <img src="https://img.shields.io/badge/NextJS-blue" alt="NextJS"/>
-<p/>
+
+<h4 align="center">
+   NextJs + TypeScript + TailWind + Clean Architecture
+</h4>
+
 
 <h1 align="center">
     <img src=".github/capa.PNG" alt="open-animes" height="600"/>
