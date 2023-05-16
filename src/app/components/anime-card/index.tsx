@@ -23,7 +23,7 @@ export const AnimeCard = ({ data, onClick }: AnimeCardProps) => {
       <img
         src={data.coverImage}
         alt="Bocchi the Rock!"
-        className="h-[260px] w-full"
+        className="h-[260px] w-full object-cover"
         height={260}
         width={220}
       />
