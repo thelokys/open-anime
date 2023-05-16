@@ -1,4 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<h4 align="center">
+   O Produto possibilita armazenar as suas séries favoritas
+</h4>
+ 
+<h4/>
+<p align="center">
+  <img src="https://img.shields.io/badge/NextJS-blue" alt="NextJS"/>
+<p/>
+
+<h1 align="center">
+    <img src=".github/capa.png" alt="open-animes" height="80"/>
+</h1>
+
 
 ## Getting Started
 
