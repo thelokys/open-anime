@@ -8,7 +8,7 @@
 <p/>
 
 <h1 align="center">
-    <img src=".github/capa.png" alt="open-animes" height="80"/>
+    <img src=".github/capa.PNG" alt="open-animes" height="600"/>
 </h1>
 
 
